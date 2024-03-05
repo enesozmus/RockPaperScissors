@@ -6,6 +6,6 @@
 5. The game ends after 7 questions, at which point their score is shown.
 
 <div>
-  <img src="https://github.com/enesozmus/RockPaperScissors/assets/94680591/6b263f14-4b13-4ab3-b115-198ac7d55400" width="250">
-  <img src="https://github.com/enesozmus/RockPaperScissors/assets/94680591/11758cad-4e1f-4db4-99e3-2f6fd9bc6422" width="250">
+  <img src="https://github.com/enesozmus/RockPaperScissors/assets/94680591/1694d9b7-50db-4a76-be9c-c68b615c2605" width="250">
+  <img src="https://github.com/enesozmus/RockPaperScissors/assets/94680591/f384ff1a-df3e-4845-9d57-b1b5a57f06c8" width="250">
 </div>
